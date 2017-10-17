@@ -20,8 +20,11 @@ Snake is on halt at start of the game. Tilt Engduino to start the game.
 
 ### Keyboard
 **W/A/S/D** - controls
+
 **U/I/O/P** - snake speed x1/x2/x4/x8
+
 **1/2/3** - next level choice 
+
 **R** - restart (uploads the latest chosen level, 1 by default)
 
 ## General rules
