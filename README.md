@@ -1,11 +1,11 @@
 # Snake – The Engduino Game 
 
-Snake – The Engduino Game is a classic example of Snake game, which uses Engduino (Arduino based board) as motion-controller (or a keyboard, alternatively), to steer the snake.
+Snake – The Engduino Game is a classic example of Snake game, which uses Engduino (Arduino based board) as motion-controller (or a keyboard, alternatively), to steer the snake. The game has been programmed in [Processing environmet](https://processing.org/) (in Java syntaxed language) - a software sketchbook for coding within the context of the visual arts. Egduino sensor readings are taken and sent to Processing application according to the code put in .ino file.
 
 ## In a nutshell
 Move the snake by tilting the Engduino. The bigger the tilt the faster the snake moves. Eat cherries to feed the snake and make it bigger. Avoid colliding with walls and the snake’s tail. Engduino button resets the game. There are 3 levels available. Level 1 is loaded by default. To change the level press button 1, 2 or 3 on the keyboard and trigger reset. Make sure to click on the game window first, so that so that your operational system knows which window you are pressing the buttons for (it’s not the game window by default). Enjoy!
 
-## Snake control - Engduino
+## Snake controls
 The snake is controlled by tilting the Engduino. The direction of the tilt changes the direction of snake’s movement adequately (i.e. tilting Engduino forwards will cause the snake move upwards, backwards – downwards, leftwards – leftwards and rightwards adequately).
 
 ### Snake movement mechanics 
@@ -18,7 +18,7 @@ There are 3 speed levels of Snake movement. The bigger the tilt of Engduino the 
 If Engduino is held straight, i.e. it’s not tilted, the snake will not change the direction of its movement. 
 Snake is on halt at start of the game. Tilt Engduino to start the game.
 
-## Snake control - Keyboard
+### Keyboard
 **W/A/S/D** - controls
 **U/I/O/P** - snake speed x1/x2/x4/x8
 **1/2/3** - next level choice 
