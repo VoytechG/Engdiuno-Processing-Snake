@@ -35,5 +35,5 @@ There are 3 levels available in the game. Level 1 is loaded by default. The leve
 Having launched the game, make sure to click on the game window. It is not clicked by default, so it won’t read from the keyboard unless clicked on manually.
 
 
-[level 2 screenshot](https://github.com/VoytechG/Engdiuno-Processing-Snake/blob/master/Screenshots/snakeEngduino1.png)
-[level 3 screenshot](https://github.com/VoytechG/Engdiuno-Processing-Snake/blob/master/Screenshots/snakeEngduino2.png)
+![level 2 screenshot](https://github.com/VoytechG/Engdiuno-Processing-Snake/blob/master/Screenshots/snakeEngduino1.png "level 2 screenshot")
+![level 3 screenshot](https://github.com/VoytechG/Engdiuno-Processing-Snake/blob/master/Screenshots/snakeEngduino2.png "level 3 screenshot")
