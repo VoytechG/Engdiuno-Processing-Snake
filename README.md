@@ -19,10 +19,10 @@ If Engduino is held straight, i.e. it’s not tilted, the snake will not change 
 Snake is on halt at start of the game. Tilt Engduino to start the game.
 
 ### Keyboard
-  **W/A/S/D** - controls
-  **U/I/O/P** - snake speed x1/x2/x4/x8
-  **1/2/3** - next level choice
-  **R** - restart (uploads the latest chosen level, 1 by default)
+ - **W/A/S/D** - controls 
+ - **U/I/O/P** - snake speed x1/x2/x4/x8
+ - **1/2/3** - next level choice
+ - **R** - restart (uploads the latest chosen level, 1 by default)
 
 ## General rules
 Snakes becomes bigger by ‘eating’ cherries that appear randomly on the playboard. The purpose of the game is to make the snake as big as possible before it collides into a wall or its tail. A collision ends the game. The game can be restarted at any time by pressing the Engduino button.
