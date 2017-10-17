@@ -34,5 +34,6 @@ Cherries locations are chosen randomly from empty fields. If new cherry isn’t 
 There are 3 levels available in the game. Level 1 is loaded by default. The levels can be switched between by pressing buttons 1, 2 or 3 on the keyboard. Newly chosen level will be loaded as soon as the reset button is pressed.
 Having launched the game, make sure to click on the game window. It is not clicked by default, so it won’t read from the keyboard unless clicked on manually.
 
----
-## by [Wojciech Golaszewski](https://github.com/VoytechG)
+
+[level 2 screenshot](https://github.com/VoytechG/Engdiuno-Processing-Snake/blob/master/Screenshots/snakeEngduino1.png)
+[level 3 screenshot](https://github.com/VoytechG/Engdiuno-Processing-Snake/blob/master/Screenshots/snakeEngduino2.png)
