@@ -10,10 +10,11 @@ The snake is controlled by tilting the Engduino. The direction of the tilt chang
 
 ### Snake movement mechanics 
 Snake will proceed onto a field in front of it as long as it’s empty. If snake is moving along its tail or a wall, it is impossible to change the direction towards them to cause a collision. Along a tail/wall means right next to it and parallel to it. In other words, it’s impossible to cause a collision if there is no any empty field between the snake and the obstacle when snake is not approaching it perpendicularly.
+
 There are 3 speed levels of Snake movement. The bigger the tilt of Engduino the faster the snake moves. 
-•	slight tilt – 2 moves/second 
-•	moderate tilt – 6 moves/second
-•	big tilt – 12 moves/second
+ - slight tilt – 2 moves/second 
+ - moderate tilt – 6 moves/second
+ - big tilt – 12 moves/second
 If Engduino is held straight, i.e. it’s not tilted, the snake will not change the direction of its movement. 
 Snake is on halt at start of the game. Tilt Engduino to start the game.
 
