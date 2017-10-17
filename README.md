@@ -18,7 +18,7 @@ There are 3 speed levels of Snake movement. The bigger the tilt of Engduino the 
 If Engduino is held straight, i.e. it’s not tilted, the snake will not change the direction of its movement. 
 Snake is on halt at start of the game. Tilt Engduino to start the game.
 
-### Keyboard
+### Keyboard version
  - **W/A/S/D** - controls 
  - **U/I/O/P** - snake speed x1/x2/x4/x8
  - **1/2/3** - next level choice
